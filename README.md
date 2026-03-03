@@ -1,4 +1,4 @@
-# React + Firebase Tutorial Series
+# React + Firestore Tutorial Series
 
 Tutorials for **Advanced CS Studio** at Hong Kong International School.
 

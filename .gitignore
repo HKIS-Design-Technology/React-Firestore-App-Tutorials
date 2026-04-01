@@ -5,3 +5,4 @@
 
 # PDFs (local use only)
 *.pdf
+.DS_Store
